@@ -17,3 +17,11 @@ jobs:
         run: |
           pip install --upgrade pip
           pip install .
+
+      - name: install packages for tests
+        run: |
+          pip install .[tests]
+
+      - name: Run test_utils
+        run: |
+           pytest tests
