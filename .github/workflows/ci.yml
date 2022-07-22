@@ -2,8 +2,9 @@ name: my_CI
 
 on:
   pull_request:
-  push:
-
+    branches:
+      - develop
+      - main
 
 jobs:
   testing:
