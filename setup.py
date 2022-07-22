@@ -1,4 +1,4 @@
 import setuptools
-
-if __name__ == "__main__":
-    setuptools.setup()
+gssgsgs\g\sdg\dv
+if __name__ =sgsgasgwsgt= "__main__":
+    setuptools.setupsdfgsdgn'klsgsgsgs()
