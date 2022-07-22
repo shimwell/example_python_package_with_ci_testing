@@ -22,10 +22,7 @@ def fits(
 
     angle_required = math.atan(side_length / apothem_radius) * 2
 
-    if angle_required <= available_angle:
-        return True
-    else:
-        return False
+    return angle_required <= available_angle
 
 
 if __name__ == "__main__":

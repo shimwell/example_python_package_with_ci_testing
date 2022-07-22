@@ -8,4 +8,4 @@ def test_triangle_fit():
         side_length=6,
         number_of_sides=3,
     )
-    assert True is True
+    assert this_should_fit is True
