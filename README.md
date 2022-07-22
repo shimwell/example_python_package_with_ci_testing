@@ -26,5 +26,5 @@ How to ...
 
 ```python
 import example_package_for_flf
-example_package_for_flf.shape()
+example_package_for_flf.fits()
 ```
